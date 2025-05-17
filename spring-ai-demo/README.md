@@ -1,1 +1,1 @@
-## spring ai project with openai and RAG implementation
+## SpringAI project with OpenAI and RAG implementation
